@@ -11,6 +11,7 @@ on:
 defaults:
   run:
     shell: bash
+    
 
 env:
   IBM_ACCOUNT: ${{ secrets.IBM_ACCOUNT }}
